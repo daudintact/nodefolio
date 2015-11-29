@@ -1,0 +1,37 @@
+{
+  "name": "nodefolio",
+  "version": "1.0.0",
+  "description": "This is my portfolio website.My name is daud khan. This website shows my skills of nodejs and related technologies. This website also has a blog on nodejs, angulerjs, express and mongodb.  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daudintact/nodefolio.git"
+  },
+  "keywords": [
+    "nodejs",
+    "angulerjs",
+    "mean",
+    "stack",
+    "mongodb",
+    "portfolio",
+    "website",
+    "mean",
+    "portfolio",
+    "website",
+    "anguler",
+    "js",
+    "portfolio",
+    "website",
+    "daud",
+    "khan"
+  ],
+  "author": "daud khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daudintact/nodefolio/issues"
+  },
+  "homepage": "https://github.com/daudintact/nodefolio#readme"
+}

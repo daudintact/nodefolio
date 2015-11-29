@@ -1,0 +1,13 @@
+include somthing in node js
+var Http = require('http');
+
+Express node modeule on mvc
+Jade
+
+i install express globally npm install -g express
+-g is a flag for global why globally
+
+/*
+If you’re installing something that you want to use in your program, using require('whatever'), then install it locally, at the root of your project.
+If you’re installing something that you want to use in your shell, on the command line or something, install it globally, so that its binaries end up in your PATH environment variable.{https://nodejs.org/en/blog/npm/npm-1-0-global-vs-local-installation/}
+*/
